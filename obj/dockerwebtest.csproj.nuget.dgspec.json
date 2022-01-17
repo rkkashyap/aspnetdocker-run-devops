@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rajes\\source\\repos\\dockerwebtest\\dockerwebtest.csproj": {}
+    "C:\\Rajesh\\docker\\aspnetdocker-run-devops\\dockerwebtest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rajes\\source\\repos\\dockerwebtest\\dockerwebtest.csproj": {
+    "C:\\Rajesh\\docker\\aspnetdocker-run-devops\\dockerwebtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rajes\\source\\repos\\dockerwebtest\\dockerwebtest.csproj",
+        "projectUniqueName": "C:\\Rajesh\\docker\\aspnetdocker-run-devops\\dockerwebtest.csproj",
         "projectName": "dockerwebtest",
-        "projectPath": "C:\\Users\\rajes\\source\\repos\\dockerwebtest\\dockerwebtest.csproj",
+        "projectPath": "C:\\Rajesh\\docker\\aspnetdocker-run-devops\\dockerwebtest.csproj",
         "packagesPath": "C:\\Users\\rajes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rajes\\source\\repos\\dockerwebtest\\obj\\",
+        "outputPath": "C:\\Rajesh\\docker\\aspnetdocker-run-devops\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

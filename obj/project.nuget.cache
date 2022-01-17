@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rp7vARgyO0ed/1lqrKJIBdDhltUsifiB5k3otFhu38Bp5QOF9ihGYCa1+bysAaOAotgfNdCQlKs0BcTShMdmiQ==",
+  "dgSpecHash": "fe3yaGIPWYkw5X7lxOhQD1s3PoiQoufAgtVdc43uFZSdKfGJlOrd2zBNtHrTx9gtcsaz5X3wXVcLMMoFv2CHmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rajes\\source\\repos\\dockerwebtest\\dockerwebtest.csproj",
+  "projectFilePath": "C:\\Rajesh\\docker\\aspnetdocker-run-devops\\dockerwebtest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rajes\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\rajes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
